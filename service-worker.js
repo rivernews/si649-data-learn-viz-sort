@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/si649-data-learn-viz-sort/precache-manifest.de88b92e0ac1361d0d5e361896ef677a.js"
+  "/si649-data-learn-viz-sort/precache-manifest.e2a9dbb6db211c1fda1bfca106904145.js"
 );
 
 workbox.clientsClaim();
